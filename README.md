@@ -31,6 +31,23 @@ Commands are available:
 
 You may run command 'sitecompiler' as well as 'sc' for saving keystrokes.
 
+## QuickStart
+
+See which templates are available:
+
+    $ lein sc templates
+
+Generate a stub for your website:
+
+    $ lein sc new my nightsky
+
+Compile it:
+
+    $ cd my
+    $ lein sc compile
+
+Open in your browser file my/output/index.html.
+
 ## License
 
 Copyright © 2015 D.Bushenko:
