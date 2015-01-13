@@ -12,7 +12,7 @@ Add the following into the dependencies in .lein/profiles.clj
 
 E.g. your profiles.clj may look like this:
 
-    {:user {:plugins [[lein-sitecompiler "0.1.0"]]}}
+    {:user {:plugins [[lein-sitecompiler "0.2.0"]]}}
 
 Run following to get help:
 
