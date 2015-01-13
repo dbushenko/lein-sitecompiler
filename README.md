@@ -8,7 +8,7 @@ See https://github.com/dbushenko/sitecompiler for details.
 
 Add the following into the dependencies in .lein/profiles.clj
 
-    [lein-sitecompiler "0.1.0"]
+    [lein-sitecompiler "0.2.0"]
 
 E.g. your profiles.clj may look like this:
 
