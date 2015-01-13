@@ -5,7 +5,7 @@
   (:import [org.apache.commons.compress.archivers.zip ZipFile]
            [java.io File]))
 
-(def SITECOMPILER-VERSION "0.2.5")
+(def SITECOMPILER-VERSION "0.2.6")
 
 ;; Из-за того, что я не смог получить список файлов-ресурсов, пришлось сделать для них
 ;; дескриптор metainfo.clj. Там, помимо названия файла-шаблона, храним еще и

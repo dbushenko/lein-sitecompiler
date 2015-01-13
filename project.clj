@@ -1,4 +1,4 @@
-(defproject lein-sitecompiler "0.1.0"
+(defproject lein-sitecompiler "0.2.0"
   :description "A leiningen plugin for static site compiler"
   :url "http://github.com/dbushenko/lein-sitecompiler"
   :license {:name "Eclipse Public License"
